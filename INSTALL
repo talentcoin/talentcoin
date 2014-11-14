@@ -1,0 +1,9 @@
+Building TALENT
+
+See doc/readme-qt.rst for instructions on building TALENT-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TALENT.
+
+See doc/build-*.txt for instructions on building TALENTd,
+the intended-for-services, no-graphical-interface, reference
+implementation of TALENT.
